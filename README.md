@@ -25,7 +25,6 @@ The project is organised into a clear directory structure to facilitate collabor
 *   **`src/pipeline/`**: Contains `train_pipeline.py` and `predict_pipeline.py`.
 *   **`src/logger.py` & `src/exception.py`**: Custom scripts for tracking execution and handling errors.
 *   **`src/utils.py`**: Houses common functionalities like saving/loading pickle files and model evaluation.
-*   **`notebook/`**: Contains Jupyter notebooks used for initial **Exploratory Data Analysis (EDA)** and model prototyping.
 
 ---
 
