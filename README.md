@@ -1,5 +1,3 @@
-                             # **Student Performance Indicator - End-to-End Machine Learning Project**
-
 This project demonstrates a comprehensive, **end-to-end machine learning implementation**, focusing on a **generic project structure** that can be adapted for various data science tasks. The primary goal is to predict student test scores based on several demographic and educational factors.
 
 ---
