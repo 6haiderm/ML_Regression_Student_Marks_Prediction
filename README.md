@@ -1,4 +1,4 @@
-                                             **END TO END MACHINE LEARNING PROJECT**
+                                            ** END TO END MACHINE LEARNING PROJECT**
 Predictive Analytics: Student Performance Forecasting 
 
 Developed a supervised machine learning model in Python to predict academic outcomes based on study habits and historical data.
